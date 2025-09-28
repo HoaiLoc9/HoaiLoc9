@@ -93,8 +93,6 @@ src="https://camo.githubusercontent.com/197d47b91a094d00f39850f2fb8757fecb784999
 <p><em>May 2024 — Present</em><br>
 - Freelance data engineer specializing in data processing and analysis, building robust pipelines, and providing insights to support business decisions.</p>
 
-<!-- Final GIF -->
-<div style="text-align:center; margin-top: 30px;">
-  <img src="https://media.giphy.com/media/3o7aD4cy9buCWf4fdG/giphy.gif" width="300" alt="coding animation" style="border-radius:12px;" />
+
   <p style="color:#FF4500; font-weight:bold;">Thank you for visiting my page!</p>
-</div>
+
