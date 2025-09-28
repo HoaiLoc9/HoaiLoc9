@@ -30,15 +30,10 @@
 <h3>Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-C-333?style=flat&logo=c" />
   <img src="https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/-SQL-333?style=flat&logo=sql" />
-  <img src="https://img.shields.io/badge/-Java-333?style=flat&logo=java" />
   <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Swift-333?style=flat&logo=swift" />
-  <img src="https://img.shields.io/badge/-Lua-333?style=flat&logo=lua" />
-  <img src="https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter" />
 </p>
 
 <h3>Databases</h3>
@@ -76,10 +71,7 @@
 
 <h3>Office & Operating Systems</h3>
 <p>
-  <img src="https://img.shields.io/badge/-Microsoft%20Word-333?style=flat&logo=microsoftword" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Excel-333?style=flat&logo=microsoftexcel" />
   <img src="https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi" />
-  <img src="https://img.shields.io/badge/-Canva-333?style=flat&logo=canva" />
   <img src="https://img.shields.io/badge/-Figma-333?style=flat&logo=figma" />
   <img src="https://img.shields.io/badge/-macOS-333?style=flat&logo=apple" />
   <img src="https://img.shields.io/badge/-Linux-333?style=flat&logo=linux" />
@@ -93,7 +85,7 @@
 
 <h3>🎓 Lecturer | Teky Academy of Creative Technology</h3>
 <p><em>October 2023 — Present</em><br>
-- As a STEAM instructor specializing in programming, I teach students coding and computational thinking through hands-on projects. I design interactive lessons using languages such as Python, Scratch, and Arduino, helping students build problem-solving skills. I also guide them in developing applications, games, and AI projects while fostering creativity and logical thinking.</p>
+- As a STEAM instructor specializing in programming, I teach students coding and computational thinking through hands-on projects. I design interactive lessons using languages such as Python, helping students build problem-solving skills. I also guide them in developing applications, games, and AI projects while fostering creativity and logical thinking.</p>
 
 <h3>💻 Data Engineer | Freelancer</h3>
 <p><em>May 2024 — Present</em><br>
