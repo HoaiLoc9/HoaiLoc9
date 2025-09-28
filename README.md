@@ -4,7 +4,9 @@
 
 <!-- GIF avatar -->
 <div style="text-align:center;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ0enpwdzBoMHBqNjlwYzJvd2NhOTc5c3J4OGg5dnQ4aWQyM2RicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="200" alt="tech" style="border-radius:12px;" />
+  <img 
+src="https://camo.githubusercontent.com/197d47b91a094d00f39850f2fb8757fecb784999299284c92488234edba3ba80/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39322f61342f36622f39326134366230363836656536626434363863353733363464313132386266632e676966" />
+  <img 
 </div>
 
 <!-- Follow badge -->
